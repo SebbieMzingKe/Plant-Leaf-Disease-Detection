@@ -9,3 +9,10 @@ apple-5.webp
 plant_disease_model.keras
 
 training_hist.json
+
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SebbieMzingKe/Plant-Leaf-Disease-Detection.git
+git push -u origin main
+
+https://github.com/SebbieMzingKe/Plant-Leaf-Disease-Detection.git
